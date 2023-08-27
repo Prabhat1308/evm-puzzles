@@ -1,0 +1,2 @@
+WE put the value in "wei" to which location we want to go as jump will read that . as the pos of "JUMPDST" is 08 . we put 8 in call value
+

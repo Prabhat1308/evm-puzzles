@@ -1,0 +1,1 @@
+jumpi (0 then not jump , 1 then jump)

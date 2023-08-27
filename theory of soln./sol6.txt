@@ -1,0 +1,2 @@
+calldataload with some value say x brushes off the leftmost x bytes and leftshifts . rightmost values are then filled by zero
+

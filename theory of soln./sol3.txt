@@ -1,0 +1,5 @@
+calldatasize get the value in bytes for .
+ 0xFF ==1
+ 0xFFFF == 2
+ 
+ 

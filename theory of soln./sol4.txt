@@ -1,0 +1,2 @@
+simple xor to get the ans to jumpdest
+

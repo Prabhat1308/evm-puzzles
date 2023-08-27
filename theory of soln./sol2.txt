@@ -1,0 +1,7 @@
+codesize gets the size of code (get it checked in evm playground in bytecode ). callvalue to get value to specific jumpdest
+
+push x
+push y
+sub 
+
+gets (y-x) on stack
